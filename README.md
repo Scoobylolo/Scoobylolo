@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @Scoobylolo. My name is Andy Carvajal and I am pursuing my Computer engineering degree at Florida International University.
+- 👋 Hi, I’m @Scoobylolo. My name is Andy Carvajal and I hold a Bachelor of Science degree in Computer engineering from Florida International University.
+- 🚚 I currently work at Southwestern Insurance, the biggest trucking insurance agency in Florida, as the lead software engineer.
 - 👀 I’m interested in software engineering, machine learning, networking, and cybersecurity.
 - 🌱 I’m currently learning about computer systems and their architecture, artificial intelligence, and cybersecurity.
-- 💞️ I’m looking to collaborate on any open source project.
+- 💞️ I’m looking to collaborate on any open or close source project.
 - 📫 How to reach me. My email is acarv039@fiu.edu
 
 <!---
